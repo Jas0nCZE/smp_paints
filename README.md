@@ -7,3 +7,11 @@ Preview: https://www.youtube.com/watch?v=Sr8CttEHVfs
 Forum Link:
 
 # Dependencies ox_lib, ox_target, ESX
+
+
+
+
+
+
+Support:
+https://discord.gg/3RptXG5WYH
